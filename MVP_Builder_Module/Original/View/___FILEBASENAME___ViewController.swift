@@ -33,7 +33,7 @@ final class ___VARIABLE_productName___ViewController: UIViewController {
         
         view = UIView()
         view.accessibilityIdentifier = "___VARIABLE_productName___"
-        view.backgroundColor = .nabWhite
+        view.backgroundColor = .white
         
         tableView.separatorStyle = .none
         tableView.backgroundColor = .clear
